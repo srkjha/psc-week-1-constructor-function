@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+
+form{
+    margin: auto;
+    display: block;
+
+}
+input{
+    margin: auto;
+    display: block;
+    width: 20%;
+    margin: 10px;
+    margin-left: 40%;
+}
